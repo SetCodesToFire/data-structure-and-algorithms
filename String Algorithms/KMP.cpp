@@ -2,7 +2,7 @@
 #include<iostream>
 #include<vector>
 
-#define MAX_N 1000
+#define MAX_N 1000001
 using namespace std;
 
 int n,m;
